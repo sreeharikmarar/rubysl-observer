@@ -1,4 +1,4 @@
-# Rubysl::Observable
+# Rubysl::Observer
 
 TODO: Write a gem description
 
@@ -6,7 +6,7 @@ TODO: Write a gem description
 
 Add this line to your application's Gemfile:
 
-    gem 'rubysl-observable'
+    gem 'rubysl-observer'
 
 And then execute:
 
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install rubysl-observable
+    $ gem install rubysl-observer
 
 ## Usage
 
