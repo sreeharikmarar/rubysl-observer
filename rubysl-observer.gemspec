@@ -1,14 +1,14 @@
 # coding: utf-8
-require './lib/rubysl/observable/version'
+require './lib/rubysl/observer/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "rubysl-observable"
-  spec.version       = RubySL::Observable::VERSION
+  spec.name          = "rubysl-observer"
+  spec.version       = Rubysl::Observable::VERSION
   spec.authors       = ["Brian Shirai"]
   spec.email         = ["brixen@gmail.com"]
-  spec.description   = %q{Ruby standard library observable.}
-  spec.summary       = %q{Ruby standard library observable.}
-  spec.homepage      = "https://github.com/rubysl/rubysl-observable"
+  spec.description   = %q{Ruby standard library observer.}
+  spec.summary       = %q{Ruby standard library observer.}
+  spec.homepage      = "https://github.com/rubysl/rubysl-observer"
   spec.license       = "BSD"
 
   spec.files         = `git ls-files`.split($/)
